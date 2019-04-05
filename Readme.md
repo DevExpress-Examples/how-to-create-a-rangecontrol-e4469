@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/RangeControl_example/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/RangeControl_example/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/RangeControl_example/MainPage.xaml) (VB: [MainPage.xaml](./VB/RangeControl_example/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/RangeControl_example/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/RangeControl_example/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to: Create a RangeControl
